@@ -1,0 +1,23 @@
+.card{
+    border:none;
+}
+.our-card-image{
+    width: 100px;
+    height: 100px;
+    margin-left: 168px;
+}
+.bg-color-dau{
+    background-color: #383838b7;  
+    padding: 65px;
+    font-size: 18px;  
+    font-weight: bold;       
+}
+.text-color-change{
+     color: rgb(46, 8, 214);
+     font-weight: bold;
+     font-size: 3em;              
+}
+.para-change{
+     color:#42ff8a;
+     font-size: 22px;
+}
